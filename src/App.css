@@ -1,0 +1,9 @@
+.App {
+   text-align: center;
+  
+}
+body{
+   background-color: whitesmoke ;
+   display: flex;
+   width: 100%;
+}

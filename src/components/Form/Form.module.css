@@ -1,0 +1,11 @@
+.warning{
+    border:solid red 1px;
+    border-radius: 0.2cm ;
+    color: black;
+}
+
+.danger{
+    font-size: 10px;
+    color: black;
+    margin-left: 10cm;
+}
